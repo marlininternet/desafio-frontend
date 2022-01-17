@@ -26,7 +26,7 @@ Para iniciar o teste, faça um fork deste repositório, crie uma branch com o se
   
   
 ### 3ª Etapa – Landing page 
-**Descrição da tarefa:** Codificar uma landing page da Anc.
+**Descrição da tarefa:** Codificar uma landing page da Anc utilizando html, css e javascript.
 
 **Arquivo em anexo:** arquivo_3etapa_landingpage.rar
 
@@ -35,16 +35,22 @@ Para iniciar o teste, faça um fork deste repositório, crie uma branch com o se
 
 •	Este projeto deverá funcionar nos navegadores mais recentes do mercado.
 
-•	Pode utilizar algum pré-processador para o seu css, de preferência SASS (opcional)
+**Opcional:**
 
-•	Pode ser desenvolvido utilizando o framework React ou Gatsby (opcional)
+•	Pode utilizar algum pré-processador para o seu css, de preferência SASS
+
+•	Pode ser desenvolvido utilizando o framework React ou Gatsby
 
 
 ### Avaliação
 
-Seu projeto será avaliado de acordo com a qualidade código entregue e sua organização com os arquivos utilizados.
+Seu projeto será avaliado de acordo com a qualidade do código entregue e sua organização com os arquivos utilizados.
 Levando em conta boas práticas, SEO, acessibilidade, minificação de arquivos, responsividade e fidelidade ao layout proposto.
 
 
-**Atenção:** Caso não consiga utilizar o Github, o projeto pode de enviado via [WeTransfer]: https://wetransfer.com/
+**Atenção:** Caso não consiga utilizar o Github, o projeto pode ser enviado via [WeTransfer]: https://wetransfer.com/
+
+
+### Prazo
+Sobre o prazo de entrega se encontra no e-mail
 
